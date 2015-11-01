@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 11, 2015, 3:57:47 PM
+    Author     : calvinehicks
+*/
+#banner{
+    background-image: linear-gradient(170deg, #ADD8E6, #FFFFFF);;
+    height: 10%;
+}
+#banner-image{
+    min-height: auto;
+    width:40%;
+    margin-left:10px;
+    margin-right: 10px;
+    margin-top:10px;
+}
+#banner-name{
+    font-size: 450%;
+    margin-bottom:20px;
+}
+#designer{
+    /*background-image: linear-gradient(270deg, #FF6F60, #FFFFFF);;*/
+    background-color: #FF6F60;
+}
+#researcher{
+    /*background-image: linear-gradient(90deg, #6396FC, #FFFFFF);;*/
+    background-color: #6396FC;
+}
+#developer{
+    /*background-image: linear-gradient(270deg, #6F9F90, #FFFFFF);;*/
+    background-color: #6F9F90;
+
+}
+#content{
+}
+.body-text{
+    font-size:700%;
+    margin: 20px;
+}
+.body-image{
+    width:15%;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
